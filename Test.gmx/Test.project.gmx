@@ -11,8 +11,16 @@
     <sprite>sprites\sprite2</sprite>
     <sprite>sprites\seven_up</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\script0.gml</script>
+  </scripts>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <constants number="2">
     <constant name="GM_build_date">0</constant>
     <constant name="GM_version">0</constant>
