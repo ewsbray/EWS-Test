@@ -9,6 +9,7 @@
     <sprite>sprites\sprite0</sprite>
     <sprite>sprites\spr_sprite</sprite>
     <sprite>sprites\sprite2</sprite>
+    <sprite>sprites\seven_up</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
